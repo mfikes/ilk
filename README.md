@@ -2,6 +2,8 @@
 
 Type tools for ClojureScript.
 
+[![Build Status](https://travis-ci.org/mfikes/ilk.svg?branch=master)](https://travis-ci.org/mfikes/ilk)
+
 # Usage
 
 ```
