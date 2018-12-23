@@ -1,6 +1,9 @@
 {:paths ["src"]
  :deps {org.clojure/clojurescript {:mvn/version "1.10.238"}}
- :aliases {:jar {:extra-deps {pack/pack.alpha
+ :aliases {:test {:extra-paths ["test"]
+                  :extra-deps {olical/cljs-test-runner {:mvn/version "3.3.0"}}
+                  :main-opts ["-m" "cljs-test-runner.main"]}
+           :jar {:extra-deps {pack/pack.alpha
                               {:git/url "https://github.com/juxt/pack.alpha.git"
                                :sha "8acf80dd4d6e5173585f5c6fec7af28a310f3ed7"}}
                  :main-opts ["-m" "mach.pack.alpha.skinny" "--no-libs"
