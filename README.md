@@ -2,7 +2,7 @@
 
 Type tools for ClojureScript.
 
-[![Build Status](https://travis-ci.org/mfikes/ilk.svg?branch=master)](https://travis-ci.org/mfikes/ilk)
+[![Clojars Project](https://img.shields.io/clojars/v/ilk.svg)](https://clojars.org/ilk) [![Build Status](https://travis-ci.org/mfikes/ilk.svg?branch=master)](https://travis-ci.org/mfikes/ilk)
 
 # Usage
 
