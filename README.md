@@ -11,6 +11,8 @@ cljs.user=> (inferred-type 1)
 number
 ```
 
+If you'd like `inferred-type` automatically available in your REPL, see [Auto-loaded user code](https://clojurescript.org/reference/repl#auto-loaded-user-code).
+
 # License
 
 Copyright © 2018 Mike Fikes and Contributors
