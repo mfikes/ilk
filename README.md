@@ -13,7 +13,7 @@ cljs.user=> (inferred-type 1)
 number
 ```
 
-If you'd like `inferred-type` automatically available in your REPL, see [Auto-loaded user code](https://clojurescript.org/reference/repl#auto-loaded-user-code).
+If you'd like `inferred-type` automatically available in your REPL, see [`:repl-requires`](https://clojurescript.org/reference/repl-options#repl-requires) or [Auto-loaded user code](https://clojurescript.org/reference/repl#auto-loaded-user-code).
 
 # License
 
