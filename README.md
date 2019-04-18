@@ -17,6 +17,6 @@ If you'd like `inferred-type` automatically available in your REPL, see [`:repl-
 
 # License
 
-Copyright © 2018 Mike Fikes and Contributors
+Copyright © 2018–2019 Mike Fikes and Contributors
 
 Distributed under the Eclipse Public License either version 2.0 or (at your option) any later version.
